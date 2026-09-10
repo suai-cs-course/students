@@ -1,7 +1,7 @@
 ---
 name: join
 about: Вступление в организацию
-title: 4141 Иванов Иван Иванович
+title: 4141
 labels: ''
 assignees: ''
 
